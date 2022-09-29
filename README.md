@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Website's URL: 
+Website's URL: https://zbeiser.github.io/Bootcamp-Challenge-1/
 
 Use this website's code as an example in how to write HTML and CSS in a semantic, accesssible, and consolidated manner. Access the HTML and CSS files through a code editor, or open the page in a browser and utilize browser development tools to examine the contents of the code.
 
