@@ -14,6 +14,8 @@ Website's URL:
 
 Use this website's code as an example in how to write HTML and CSS in a semantic, accesssible, and consolidated manner. Access the HTML and CSS files through a code editor, or open the page in a browser and utilize browser development tools to examine the contents of the code.
 
+![Screenshot](assets\images\Screenshot.png?raw=true)
+
 ## Credits
 
 Thank you to the UW Coding Bootcamp staff and students, as well as W3Schools and Mozilla MDN Web Docs for providing numerous educational resources during the development of this project.
